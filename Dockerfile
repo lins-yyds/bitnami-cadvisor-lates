@@ -1,1 +1,1 @@
-FROM bitnami/cadvisor:lates
+FROM bitnami/cadvisor:latest
